@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1724441451 source:c:\users\abdel\desktop\amit c programming\project amit\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1724492764 c:\users\abdel\desktop\amit c programming\project amit\sdb.h
+	"STD.h"
+
+1724492764 c:\users\abdel\desktop\amit c programming\project amit\std.h
+
+1724464235 source:c:\users\abdel\desktop\amit c programming\project amit\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1724427446 source:c:\users\abdel\desktop\amit c programming\project amit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
